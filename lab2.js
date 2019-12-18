@@ -31,15 +31,6 @@ const server = http.createServer((req, res) => {
   
   
   
-  
-  
-  
-  
-  
-  
- // res.end('<h1> Hello World\n M</h1>');
-  
-  
 
 });
 server.listen(port, hostname, () => {
